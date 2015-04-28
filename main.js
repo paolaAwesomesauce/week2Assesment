@@ -9,7 +9,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
 	$('#iwao').click(function(){
-	$('#iwao').hide();
+	$('#iwao').fadeOut('slow');
 
 	});
 
